@@ -15,4 +15,5 @@
 * [Language reference](language-reference.md)
 * [Tools](tools.md)
 * [Learning materials](learning-materials.md)
-* [Other resources](other-resources.md)
+* [Other resources](other-resources/README.md)
+  * [FAQ](other-resources/faq.md)
